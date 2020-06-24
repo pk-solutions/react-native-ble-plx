@@ -46,5 +46,5 @@ repositories {
 
 dependencies {
     implementation "com.facebook.react:react-native:+"
-    implementation 'com.github.trenton05:MultiPlatformBleAdapter:782be8976c86350c400ab11aa99887db6bf20069'
+    implementation 'com.github.trenton05:MultiPlatformBleAdapter:30c50c2dbed4d67ebf04459be202fd59ff6d2eb7'
 }
