@@ -6,5 +6,5 @@ target 'BleClient' do
   use_frameworks!
 
   # Pods for BleClient
-  pod 'MultiplatformBleAdapter', :git => 'https://github.com/pk-solutions/MultiPlatformBleAdapter' :commit => '046374e43baace8fb5defed77eb2552fbe2987a1'
+  pod 'MultiplatformBleAdapter', :git => 'https://github.com/pk-solutions/MultiPlatformBleAdapter', :commit => '046374e43baace8fb5defed77eb2552fbe2987a1'
 end
