@@ -2,7 +2,7 @@ PODS:
   - MultiplatformBleAdapter (0.1.8)
 
 DEPENDENCIES:
-  - MultiplatformBleAdapter (~> 0.1.5)
+  - MultiplatformBleAdapter (~> 0.1.8)
 
 SPEC REPOS:
   trunk:
